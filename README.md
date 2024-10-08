@@ -23,8 +23,8 @@ This is still a work in progress. My attention is currently spread over several 
 
 ## Screenshots
 In initial development, banner design was my main focus
-![Screenshot One](./img/screenshot1)
-![Screenshot Two](./img/screenshot2)
+![Screenshot One](./src/img/screenshot1.jpg)
+![Screenshot Two](./src/img/screenshot2.jpg)
 
 
 ## Features
