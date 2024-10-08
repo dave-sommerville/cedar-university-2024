@@ -1,10 +1,17 @@
 
 # Cedar University
 
-Example of a University Webpage design, using a fabricated University and history. 
-This was a group project for my course at MITT, as an exercise in responsive design and formatting numerous components. Please see acknowledgements for my project partners details. 
+University Webpage Design Project
+This project is a demonstration of a fabricated university's webpage, 
+created as part of a group exercise for my course at MITT. The focus 
+was on building a responsive design while incorporating various web 
+components and formatting techniques.
 
-This is still a work in progress. My attention is currently spread over several projects, but I intend to adjust the current design as well as expand on the overall design. 
+Please refer to the acknowledgments section for details on my project partners.
+
+Note: As I am currently managing several 
+other projects, this webapp is a work in progress.  Further adjustments 
+and expansions to the design will be implemented in the near future.
 
 
 ## Authors
